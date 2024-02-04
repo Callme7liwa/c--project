@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "gestion_contact_data/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/gestion_contact_data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/gestion_contact_data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestion_contact_data/1.0.0": {
+      "type": "project",
+      "path": "../gestion_contact_data/gestion_contact_data.csproj",
+      "msbuildProject": "../gestion_contact_data/gestion_contact_data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "gestion_contact_data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MyPC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MyPC\\Downloads\\gestion_contacts-master\\gestion_contacts-master\\gestion_contact_serialisation\\gestion_contact_serialisation.csproj",
+      "projectName": "gestion_contact_serialisation",
+      "projectPath": "C:\\Users\\MyPC\\Downloads\\gestion_contacts-master\\gestion_contacts-master\\gestion_contact_serialisation\\gestion_contact_serialisation.csproj",
+      "packagesPath": "C:\\Users\\MyPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MyPC\\Downloads\\gestion_contacts-master\\gestion_contacts-master\\gestion_contact_serialisation\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\MyPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net4.7.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "projectReferences": {
+            "C:\\Users\\MyPC\\Downloads\\gestion_contacts-master\\gestion_contacts-master\\gestion_contact_data\\gestion_contact_data.csproj": {
+              "projectPath": "C:\\Users\\MyPC\\Downloads\\gestion_contacts-master\\gestion_contacts-master\\gestion_contact_data\\gestion_contact_data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net4.7.2",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

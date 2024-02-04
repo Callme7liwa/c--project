@@ -1,0 +1,9 @@
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_data\bin\Debug\net4.7.2\gestion_contact_data.dll
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_data\bin\Debug\net4.7.2\gestion_contact_data.pdb
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_data\obj\Debug\net4.7.2\gestion_contact_data.csproj.AssemblyReference.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_data\obj\Debug\net4.7.2\gestion_contact_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_data\obj\Debug\net4.7.2\gestion_contact_data.AssemblyInfoInputs.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_data\obj\Debug\net4.7.2\gestion_contact_data.AssemblyInfo.cs
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_data\obj\Debug\net4.7.2\gestion_contact_data.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_data\obj\Debug\net4.7.2\gestion_contact_data.dll
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_data\obj\Debug\net4.7.2\gestion_contact_data.pdb

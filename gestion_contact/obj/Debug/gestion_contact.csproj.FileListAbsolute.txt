@@ -1,0 +1,16 @@
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\bin\Debug\gestion_contact.exe.config
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\bin\Debug\gestion_contact.exe
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\bin\Debug\gestion_contact.pdb
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\bin\Debug\gestion_contact_data.dll
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\bin\Debug\gestion_contact_serialisation.dll
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\bin\Debug\gestion_contact_data.pdb
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\bin\Debug\gestion_contact_serialisation.pdb
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\obj\Debug\gestion_contact.csproj.AssemblyReference.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\obj\Debug\gestion_contact.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\obj\Debug\gestion_contact.csproj.CopyComplete
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\obj\Debug\gestion_contact.exe
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact\obj\Debug\gestion_contact.pdb
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\ContactsManagement\obj\Debug\gestion_contact.csproj.AssemblyReference.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\ContactsManagement\obj\Debug\gestion_contact.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\ContactsManagement\obj\Debug\gestion_contact.exe
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\ContactsManagement\obj\Debug\gestion_contact.pdb

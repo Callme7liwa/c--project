@@ -1,0 +1,12 @@
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\bin\Debug\net4.7.2\gestion_contact_serialisation.dll
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\bin\Debug\net4.7.2\gestion_contact_serialisation.pdb
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\bin\Debug\net4.7.2\gestion_contact_data.dll
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\bin\Debug\net4.7.2\gestion_contact_data.pdb
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\obj\Debug\net4.7.2\gestion_contact_serialisation.csproj.AssemblyReference.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\obj\Debug\net4.7.2\gestion_contact_serialisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\obj\Debug\net4.7.2\gestion_contact_serialisation.AssemblyInfoInputs.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\obj\Debug\net4.7.2\gestion_contact_serialisation.AssemblyInfo.cs
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\obj\Debug\net4.7.2\gestion_contact_serialisation.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\obj\Debug\net4.7.2\gestion_contact_serialisation.csproj.CopyComplete
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\obj\Debug\net4.7.2\gestion_contact_serialisation.dll
+C:\Users\MyPC\Downloads\gestion_contacts-master\gestion_contacts-master\gestion_contact_serialisation\obj\Debug\net4.7.2\gestion_contact_serialisation.pdb
