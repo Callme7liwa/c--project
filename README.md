@@ -1,18 +1,31 @@
-# Gestionnaire de contacts : TP .net
+##Gestionnaire de contacts : Rapport de projet .NET
 
-Application de gestionnaire de contacts. Contient trois projets Visual Studio :
-- `gestion_contact` contient l'application console
-- `gestion_contact_data` contient la structure de données
-- `gestion_contact_serialisation` contient les classes utilisées pour la serialisation
+#Introduction
+Le projet "Gestionnaire de contacts" en .NET a été conçu pour offrir une solution de gestion avancée des contacts avec des fonctionnalités telles que la structure hiérarchique de dossiers, la sérialisation en XML et en binaire, ainsi que le cryptage des données.
 
-L'application console s'utilise par des commandes à entrer dans la console. Plusieurs alternatives sont acceptées pour chaque option.
+#Structure du Projet
+Le projet est organisé en trois projets distincts dans Visual Studio :
 
-## Structures de données
-Les structures de données utilisées sont stockées dans le projet `gestionnaire_contact_data`. Pour faciliter le stockage des enfants dans chaque dossier, les classes `Dossier` et `Contact` dérivent de la classe `Fichier`.
-- Un `Fichier` possède une date de création, une date de modification et un nom.
-- Un `Dossier` possède un dossier parent pour pouvoir remonter dans l'arbre de fichier, ce qui n'est pas nécessaire pour un contact. Il possède aussi une liste de fichiers, qu'ils soient contacts ou dossiers.
-- Un `Contact` possède un prénom, un mail, une société et un lien. Le mail d'un contact est vérifié à la création et doit respecter le format '---@---.---".
+gestion_contact : Contient l'application console utilisée pour interagir avec le gestionnaire de contacts.
 
-## Sérialisation
-Un arbre de fichiers peut être sérialisé dans un fichier XML ou en format binaire. L'extension donnée dans le nom du fichier détermine le type de fichier. Pour chiffrer les données sérialisées, l'utilisateur doit saisir un mot de passe qui servira de clé de chiffrement. Ce mot de passe lui est redemandé lors de la déserialisation. Un fichier chiffré est identifié par '_encrypted' avant l'extension. Le vecteur d'initialisation est généré aléatoirement et écrit au début du fichier chiffré. Le programme crée un dossier dans le dossier `Mes Documents` de l'utilisateur où il stocke et récupère tous les fichiers sérialisés.
-L'attribut Parent des dossiers est ignoré par la sérialisation en XML pour éviter les dépendances circulaires qui empêchaient la sérialisation. C'est pour cela qu'il est nécessaire de refaire le chaînage à la main une fois l'arbre de fichiers récupéré.
+gestion_contact_data : Comprend la structure de données du gestionnaire de contacts, notamment les classes Dossier et Contact dérivées de la classe Fichier.
+
+gestion_contact_serialisation : Contient les classes nécessaires à la sérialisation des données, offrant la possibilité de sauvegarder et charger l'arbre de fichiers en XML ou en binaire, avec la fonctionnalité de cryptage.
+
+#Structures de Données
+Les principales structures de données sont définies dans le projet gestion_contact_data :
+
+Fichier : Possède une date de création, une date de modification et un nom.
+Dossier : Hérite de la classe Fichier et contient un dossier parent, une liste de fichiers (contacts ou dossiers), et offre la possibilité de remonter dans l'arbre de fichiers.
+Contact : Hérite de la classe Fichier et possède un prénom, un mail, une société et un lien.
+Sérialisation
+La sérialisation est réalisée en XML ou en binaire, avec la possibilité de chiffrer les données. L'utilisateur peut saisir un mot de passe comme clé de chiffrement, qui sera utilisé lors de la sérialisation et demandé lors de la déserialisation. Les fichiers chiffrés sont identifiés par '_encrypted' dans leur nom.
+
+Localisation des Fichiers Sérialisés
+Le programme crée un dossier dans le répertoire Mes Documents de l'utilisateur pour stocker et récupérer tous les fichiers sérialisés.
+
+Gestion des Dépendances Circulaires
+Pour éviter des dépendances circulaires lors de la sérialisation XML, l'attribut Parent des dossiers est ignoré. Le chaînage est refait manuellement après la récupération de l'arbre de fichiers.
+
+Conclusion
+Le projet "Gestionnaire de contacts" offre une solution complète pour la gestion avancée des contacts avec des fonctionnalités de sérialisation, de cryptage et une structure de données bien définie. L'application console fournit une interface utilisateur simple et efficace pour interagir avec le gestionnaire de contacts.
